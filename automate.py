@@ -1,22 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@PradeepOff 
-1
-00KedarisettiSreeVamsi/GITAM-Result-Automation
- Code Issues 0 Pull requests 0 Actions Projects 0 Wiki Security Insights
-GITAM-Result-Automation/gitam_automate.py / 
-@KedarisettiSreeVamsi KedarisettiSreeVamsi Add files via upload
-8d3834c on Aug 22
-196 lines (168 sloc)  7.31 KB
-  
-You're using code navigation to jump to definitions or references.
-Learn more or give us feedback
 # Selenium Module(Automates Browser)
 from selenium.webdriver.support.select import Select
 from selenium.webdriver.support.ui import WebDriverWait
