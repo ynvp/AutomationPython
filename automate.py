@@ -194,15 +194,3 @@ quit_button=Button(text="Quit",fg="white",bg="red",command=thank,height=1,width=
 quit_button.place(x=400,y=450)
 
 window.mainloop()
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
